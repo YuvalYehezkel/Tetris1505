@@ -1,0 +1,5 @@
+﻿  Computer.cpp
+C:\Users\yuval\Desktop\שנה ב\סמסטר ב\cpp\TetrisTargil2\TetrisTargil2\Board.h(29,45): warning C4309: 'default argument': truncation of constant value
+C:\Users\yuval\Desktop\שנה ב\סמסטר ב\cpp\TetrisTargil2\TetrisTargil2\Computer.cpp(104,6): warning C4101: 'curHeight': unreferenced local variable
+C:\Users\yuval\Desktop\שנה ב\סמסטר ב\cpp\TetrisTargil2\TetrisTargil2\Computer.cpp(322): warning C4715: 'Computer::compareBetween2Placements': not all control paths return a value
+  TetrisTargil2.vcxproj -> C:\Users\yuval\Desktop\שנה ב\סמסטר ב\cpp\TetrisTargil2\Debug\TetrisTargil2.exe
